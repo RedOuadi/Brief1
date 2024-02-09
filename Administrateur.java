@@ -2,6 +2,7 @@ package ecole;
 
 import java.util.Scanner;
 
+
 public class Administrateur {
 
     public static void main(String[] args) {
